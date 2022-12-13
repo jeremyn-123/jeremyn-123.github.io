@@ -10,7 +10,7 @@ My GitHub page is [jeremyn-123](http://github.com/jeremyn-123).
 
 * [Lab 3](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-03-jeremyn-123)
 
-    Lab 3, part 2 was really interesting because of the unit conversion. I like how you can input a milliliters in the metric system and the program does the math and converts it to the customary system (teaspoons, tablespoons, ounces, and cups). I know we have created way more advanced things throughout this course but this excited me because I actually created the program.
+    Lab 3, part 2 was really interesting because of the unit conversion. I like how you can input a milliliters in the metric system and the program does the math and converts it to the customary system (teaspoons, tablespoons, ounces, and cups). I know we have created way more advanced things throughout this course but this excited me because I actually created a complex program. This program is pretty much like a calculator and that's pretty cool that I was able to program it while only having little experience with coding.
 
 * [Lab 9](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-09-daniel_and_jason_jeremy).
 
@@ -18,4 +18,4 @@ My GitHub page is [jeremyn-123](http://github.com/jeremyn-123).
 
 * [Lab 11](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-11-matthew-and-jaremy).
 
-    Lab 11, part 2 was really fun. I really enjoy making small games and Hi-Lo Game was very fun to make. We made another Hi-Lo game in a previous lab but that one was very simple and a bit boring. I really enjoyed this one because it was actually fun to create and a lot more interactive with the user.
+    Lab 11, part 2 was really fun. I really enjoy making small games and Hi-Lo Game was very fun to make. We made another Hi-Lo game in a previous lab but that one was very simple and a bit boring. I really enjoyed this one because it was actually fun to create and a lot more interactive with the user. I have always wanted to become a game developer and these are the first baby steps towards my dream job. 
